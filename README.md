@@ -9,6 +9,6 @@ These instructions will provide general information such as local set up and so 
 ### Installing
 
 * Local Setup
-  - **[Node Js](NODE.md)**
+  - **[Node Js](./README/NODE.md)**
 
 
